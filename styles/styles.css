@@ -44,6 +44,7 @@ h1, h2, p {
     padding-bottom: 05px;
     border-radius: 10px;
     margin-bottom: 0px;
+    max-width: 400px;
 }
 
 
